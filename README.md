@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Muhammadi</h1>
+<h1 align="center">Hi 👋, I'm Bilal Muhammadi🥰🥰🥰🥰🥰</h1>
 <h3 align="center">Web Developer/ Software Engineering/ MernStack Developer At AAMAX</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/bilalamanat](https://github.com/bilalamanat)
